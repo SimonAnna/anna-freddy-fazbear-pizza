@@ -1,0 +1,81 @@
+body{
+  background-image: url('http://static.comicvine.com/uploads/original/11114/111146486/4067788-freddy+fazbear.png');
+    background-color: #cccccc;
+    background-size: 1230,1230;
+} 
+h2{
+    color: red;
+}
+div {
+     border-style: groove;
+     border-width: 5px;
+     border-color: red;
+     padding: 30px;
+}
+.container{
+ border-style: groove;
+ border-width: 5px;
+ border-color: red;
+}
+
+ #current-link{
+        text-decoration: none;
+    }
+    
+h1{
+text-align:center;
+color:red;
+border-style:groove;
+border-color:black;
+border-width: 5px;
+padding: 30px;   
+    
+}
+.col-xs-10{
+color:red;
+border-style:groove;
+border-color:black;
+border-width: 5px;
+padding: 30px;   
+    
+}
+.col-xs-2{
+text-align:center;
+color:red;
+border-style:groove;
+border-color:black;
+border-width: 5px;
+padding: 30px;   
+    
+}
+
+.row{
+border-width:0px;    
+}
+img{
+ width:200px;
+ hight:auto;
+
+}
+.col-xs-3{
+padding:0px;
+border-width:0px;
+}
+body{
+    color:cadetblue;
+}
+.list-group-item{
+    border-style:groove;
+    border-color:cadetblue;
+    margin-top:40px;
+    margin-bottom:40px;
+}
+.col-xs-4{
+    border:0px;
+}
+.align{
+    padding-right:40px
+}
+.styleB{
+    color:cadetblue;
+}
